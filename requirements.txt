@@ -1,0 +1,2 @@
+# Requires: eternal-delay
+# (Not available on PyPI)
